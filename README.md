@@ -1,4 +1,4 @@
-# Randomly
+    # Randomly
 
 ![Banner image depicting the Randomly app showing various features.](github/banner.png?raw=true "Randomly")
 
